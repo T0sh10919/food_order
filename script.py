@@ -1,8 +1,8 @@
 from food import Food
 from drink import Drink
 
-food1 = Food('サンドイッチ', 500, 330)
-food2 = Food('チョコケーキ', 400, 450)
+food1 = Food('サンドイッチ', 600, 330)
+food2 = Food('チョコケーキ', 200, 450)
 food3 = Food('シュークリーム', 200, 180)
 
 foods = [food1, food2, food3]
